@@ -1,0 +1,18 @@
+{
+  "autoPin": true,
+  "pins": [
+    {
+      "package": "MPU6050",
+      "reason": null,
+      "repositoryURL": "https://github.com/woolseyj/MPU-6050.swift.git",
+      "version": "3.0.0"
+    },
+    {
+      "package": "SwiftyGPIO",
+      "reason": null,
+      "repositoryURL": "https://github.com/uraimo/SwiftyGPIO.git",
+      "version": "1.0.8"
+    }
+  ],
+  "version": 1
+}
